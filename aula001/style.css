@@ -10,3 +10,7 @@ p {
 .fundo{
     background-color: steelblue;
 }
+
+div {
+    background: linear-gradient(red, blue);
+}
