@@ -4,3 +4,34 @@ body {
     background-color: wheat;
     text-align: justify;
 }
+
+#pri{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: white;      
+    padding: 10px;
+    border: 10px solid black;
+    box-sizing: content-box;
+}
+
+#seg{
+    height: 100px;
+    width: 100px;
+    background-color: crimson;     
+    color: white;   
+    padding: 10px;
+    border: 10px solid black;
+    box-sizing: border-box;    
+}
+
+.caixa{
+    background-color: yellow;
+    height: 300px;
+    overflow: auto;
+    margin-top: 10px;
+}
+
+.texto{
+    font-size: 20px;
+}
