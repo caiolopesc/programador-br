@@ -5,6 +5,7 @@ body {
     text-align: justify;
 }
 
+/*index*/
 #pri{
     height: 100px;
     width: 100px;
@@ -34,4 +35,16 @@ body {
 
 .texto{
     font-size: 20px;
+}
+
+/*pagina1*/
+
+.paragrafo{
+    margin: auto;
+    width: 300px;
+}
+
+.foto{
+    text-align: center;
+    margin-top: 10px;
 }
