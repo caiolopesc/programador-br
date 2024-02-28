@@ -6,6 +6,18 @@ body {
 }
 
 /*index*/
+
+a{
+    background-color: blue;
+    padding: 5px;
+    text-decoration: none;
+    color: yellow;
+}
+
+a:hover{
+    padding: 7px;
+}
+
 #pri{
     height: 100px;
     width: 100px;
@@ -47,4 +59,11 @@ body {
 .foto{
     text-align: center;
     margin-top: 10px;
+}
+
+/*pagina3*/
+
+.site{
+    padding: 0px;
+    color: yellow;
 }
