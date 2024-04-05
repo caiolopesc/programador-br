@@ -19,6 +19,7 @@ html,body{
     height: 400px;  
     background-size: cover;
     background-position: center;
+    border: 1px solid;
 }
 
 .conteudo{
@@ -37,4 +38,34 @@ h1{
 
 h2{
     font-size: 20px;
+}
+
+.cartao{
+    border: 1px solid;
+    padding: 70px 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.cartao:hover{
+    cursor: grab;
+}
+
+a{
+    text-decoration: none;
+}
+
+.botao-comprar{
+    background-color: saddlebrown;
+    padding: 16px;    
+    border-radius: 20px;
+    color: white;
+}
+
+li{
+    margin-bottom: 14px;
+}
+
+.lista-ingredientes{
+    margin-bottom: 50px;
 }
