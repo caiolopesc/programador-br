@@ -6,6 +6,7 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
 }
 
 .container{
@@ -23,4 +24,8 @@ header{
 
 .title{
     font-size: 26px;
+}
+
+section{
+    color: white;
 }
